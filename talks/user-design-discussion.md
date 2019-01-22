@@ -13,3 +13,14 @@ Key takeaway from this session: share your experiences and learn from other peop
 ### Additional information:
 
 I would love to do this discussion on ZgPHP in May or June of 2019, as 2nd in the series (for now I have only 2 topics for sessions). 
+
+
+### Notes:
+
+Examples like:
+
+ - naming (users, clients, members, subscribers, visitors, atendees ...) #byZoka
+ - separating authentication logic from domain logic (auth user vs app user and his profile) #byZoka
+ - "userless" and stateless authentication and authorization implementation (e.g. for machine to machine authentication, OAuth2) #byZoka
+ - Outsourcing authentication (E.g. social login or Firebase auth) #byZoka
+ - discuss Smyfony auth approach with loadByUsername & getUser #byZoka
