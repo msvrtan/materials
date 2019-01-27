@@ -13,9 +13,8 @@ How many of you would feel comfortable being operated by surgeon that just got t
 
 If you feel we already learn so well: why do we cycle thru ideas every 5-10 years: age of fat clients, thin clients, fat clients ... did we learn nothing from previous generations? Do we even know why they switched? Do we have anyone to ask what was the reasoning?
 
-Can you even think of any other industry that has such a large percentage of failed projects? Would you live in a 60 story skyscrapper built by the company you work for having current rate of bugs on your product/project?
 
-Has our safety harness became so good we are so used to failure as default behaviour, embracing it as a way of life?
+Can you even think of any other industry that has only 30% of projects considered a success? Has our safety harness became so good we are so used to failure as default behaviour, embracing it as a way of life?
 
 
 
