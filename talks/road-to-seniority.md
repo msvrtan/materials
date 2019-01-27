@@ -3,10 +3,9 @@ Road to seniority
 
 ### Abstract:
 
-While I will share some examples from my own career, this is not a talk about me. This talk will be heavily based on examples of ideal situation vs reality (theory vs practice), talking about do's and dont's on how to build and improve your career, independently if you already are a senior or not.
+The road to seniority is an ill defined path - do you consider yourself a senior, do others consider you, and by what definition? Lets lay out the foundations of what defines a senior and let's walk through examples of ideal situations vs reality (theory vs practice). What are some do's and dont's when improving a software career and how does one really become a senior?
 
-I would love that you as attendee participate and share your stories with all of us, as I will leave some time at the end of the talk for a short discussion.
-
+Let's not make this talk a one way street - I'd love that you as attendee participate and share your stories with all of us, as I will leave some time at the end of the talk for a short discussion.
 
 
 ### Additional information:
