@@ -55,7 +55,7 @@ But this is also a great way to test your knowledge as well ...
 I dont think doing something makes me neccessarily an expert in that something ... I might know what to use, often how to use it but do I really know why?
 
 
-#### ??
+#### How I started...
 
 How many of you are teachers or mentors in your company? OK, few hands ... In last 5 years I have been mostly working for remote companies and in companies which hire only seniors ... And I noticed that I do miss on teaching/mentoring others only when I started working with an intern 3y ago when I joined my previous company... I loved it! I had the time and resources to work with a smart young person but as he was an intern after 6months he had to continue his studies and I started noticing again that I do miss that part. 
 
@@ -131,7 +131,7 @@ Please understand, most of them were juniors, not all of them and I tought they 
 None of us is perfect and pressing random keys is not a trait of smart people but a trait of lucky ones. @TODO: ASK WHY ARE WE DOING THAT STILL?
 
 
-#### Ppl out of your company
+#### People out of your company
 
 So some of you might be asking themselves, I learned all of that from 9 to 5 .... great ... I do hope it wasnt forced on you and that it wasnt too painfull ;)
 
@@ -161,7 +161,7 @@ Maybe they dont know the difference between Java & Javascript, maybe they reffer
 and trust is hard to obtain but easy to loose
 
 
-#### Bad code (descriptions)
+#### Be explicit
 
 Avoid trying to reference something as bad, your view of what is bad and their view of what is bad can be completely different. As you dont come from same codebase, culture, type of projects etc... when you say things like 'I write bad code too' might be misinterpreted: trust me, I got into a situation where someone wrote extremly bad code and got back with 'yeah it was a quick thing and you said yourself sometimes bad code is OK' to me only figuring out that my expectation of what is bad code is much higher then what they consider 
 
@@ -171,7 +171,7 @@ Avoid trying to reference something as bad, your view of what is bad and their v
 There is a really nice phenomena I noticed with some people: cause you shared your knowledge with them, they are much more willing to share with you and share with others. You tought them sharing is caring and they absorbed it as normal cultural behaviour. 
 
 
-#### T***
+#### Learning back
 
 I actually learned a lot from some of my mentee's as well. As there path to learning got shorter, they could spend that extra time learning different things and then teaching back. For instance, few months ago one of my mentees decided to do a talk on local meetup group about writing good commit messages. While I already knew lot about it, was aware of it's importance, it was a good kick in the behind for me to improve my commit messages and it has taken a great effect on my daily work too: so yes, by shortening other peoples path to success you can learn a lot from them too.
 
@@ -200,9 +200,9 @@ If you decide to mentor just one person, your office can be good enough ...
 
 For those interested in teaching larger group,
 
-#### Public places like Mama
+#### Public places
 
-If you are coming from Zagreb, there is Mama in Preradoviceva where you can ask them for a space .. they do have a busy schedule but I'm sure you can find some slot
+If you are coming from Zagreb, there is Mama in Preradoviceva where you can ask them for a space .. they do have a busy schedule but I'm sure you can find some slot .. I'm sure that there are public spaces in other cities which you can talk to...
 
 #### Coworking places
 
