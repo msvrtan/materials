@@ -1,6 +1,11 @@
 Title: Learn by teaching
 Slides: https://slides.com/mirosvrtan/learn-by-teaching-javantura-2019/edit
 
+Terminology:
+	layman
+	spunge
+	absorb
+
 #### Conference logo
 
 #### Stuck
@@ -25,11 +30,11 @@ Some people decide to change language, technology or stack .. sometimes cause it
 
 ##### Management
 
-and some people decide to go for management ... but should we as community/company loose all of that great experience & knowledge you have?
+and some people decide to go for management ... but should we as community/company loose all of that great experience & knowledge you have? I think we should utilize that!
 
 #### Paying back
 
-Maybe you want to give back to your community I'we heard lot of people who wanted to pay it back and also advance their carreer by doing open-source, conference speaking, some organize local meetups or conferences. I'we done some of this but decided to go a bit different way these days: I'we decided to teach & mentor other developers and I'm here to share what I learned with you
+Maybe you want to give back to your community, I'we heard lot of people who wanted to pay it back and also advance their carreer, decided to do open-source, conference speaking, some organize local meetups or conferences. I'we done some of this but decided to go a bit different way these days: I'we decided to teach & mentor other developers and I'm here to share part of my story
 
 #### Learn by teaching
 
@@ -43,7 +48,7 @@ So lets start with a quick questionaire, who feels here they are an expert in th
 
 #### Communication
 
-So yeah, when you have to explain something to a person that is not biased by all of the technical choices your company did or has no experience in it, it also improves your communication skills...it's easy to communicate to people you have been working with for years but are you really sure you can easily bring on new team members? Or explain to your colleagues some crazy idea of how to try something new? We as developers/engineers love that feel of security, using the same tools we have been using for years but we also do have an urge to try new things (even us old people)... so if you had problems convincing others, is it neccessarily problem in them or in you?
+So yeah, when you have to explain something to a person that is not biased by all of the technical choices your company did or has no experience in it, it also improves your communication skills...it's easy to communicate to people you have been working with for years but are you really sure you can easily bring on new team members? Or explain to your colleagues some crazy idea of how to try something new? We as developers/engineers love that feel of security, using the same tools we have been using for years but we also do have an urge to try new things (even us old people)... so if you had problems convincing others, is it neccessarily problem in them not being interested or understanding or in you not being clear?
 
 #### Deeper understanding
 
@@ -63,7 +68,8 @@ On one of the local meetups, an attendee was talking how it's hard to learn and 
 
 #### Boundaries
 
-And this is rather important: try to create some boundaries. Unfortunately we didnt start like that and we would ourselves sometimes spending 4-5 hours, which was neither good for me or him: after 8 hours of work, I was really eager to share so much and for him, after 8 hours of work it would become too much to absorb.
+
+Try to create some boundaries,this is rather important. We started without any, sometimes spending 4-5 hours, which was neither good for me or him: after 8 hours of work, I was really eager to share so much but too tired and for him, after 8 hours of work it would by the end be too hard or too much to absorb.
 
 
 #### Pacing
@@ -78,27 +84,27 @@ But I also had to do some planning. Proper agile style planning. Not deadline dr
 
 #### In preparing for battle I have always found that plans are useless, but planning is indispensable. Dwight D. Eisenhower
 
-While I had some idea on what we would do in next few sessions, sometimes just the next one and sometimes for next three, I'we started understanding the value of planning vs the value of plans. Yes, sometimes we would be done with something quicker and spent extra time on chit-chatting about different things, sometimes what I tought would fit one session was actually 2 of them. And I'we also started valueing having clear boundaries: few months in we decided to limit our sessions to 2 hours which we both found good enough. That way I feel we both were eager for the next session, looking forward to it instead of thinking 'oh no next deathmarch is coming'
+While I had some idea on what we would do in next few sessions, sometimes just the next one and sometimes for next three, I'we started understanding the value of planning vs the value of plans. Yes, sometimes we would be done with something quicker and spent extra time on chit-chatting about different things, sometimes what I tought would fit one session was actually 2 of them. And I'we also started valuing having clear boundaries: few months in we decided to limit our sessions to 2 hours which we both found good enough. That way I felt both us were eager for the next session, looking forward to it instead of thinking 'oh no next deathmarch is coming'
 
 #### Plans vs planning
 
 While it would have been better if we had clear plans, what would happen when they get derailed? When I estimated wrong.. how much time should I spend estimating vs doing just in order to avoid the possible problems ... I'm not sure that whole journey would be enjoyable for me as it would bring unwanted stress and remember, I did this in my spare time.
 
-So our plans were: we will meet on Mondays afternoon, from 6PM to 8PM, if he had any questions prepared we would discuss them first, if they take too much time, that means that was more important than what I planned but that BROUGHT MORE VALUE than my original plans did. 
+So our plans were: we will meet on Mondays afternoon, from 6PM to 8PM, if he had any questions prepared we would discuss them first, if they take too much time, that means that was more important than what I planned but that BROUGHT MORE VALUE than my original plans did. No deadlines...
 
 
 #### In years time..
 
-Throught that year I noticed how much I enjoyed teaching and even decided to give educating others a try: as the first mentoring was winding down, I was looking into trying it a bit differently: gather a group of 2-3 people for similar setup where we could also try group excercises as well: I think culture is very important thing and by having multiple people not only I can help more people in the same time but they can learn how to help each other. I'we posted on Facebook that I'm looking for few people to mentor, if they are interested they should ping me. And they pinged me !! Like 11 or 12 of them .. OMG, what should I do now ... well, what if instead of unstructured small group, I do bit more planned sessions, long term workshops where we would not only go thru technical details, coding and stuff but the culture of a team: and 9 of them were interested. 
+Throught that year I noticed how much I enjoyed mentoring/teaching and even decided to give educating others a try: as the first mentoring was winding down, I was looking into trying it a bit differently: gather a group of 2-3 people for similar setup where we could also try group excercises as well: I think culture is very important thing and by having multiple people not only I can help more people in the same time but they can learn how to help each other. I'we posted on Facebook that I'm looking for few people to mentor, if they are interested they should ping me. And they pinged me !! Like 11 or 12 of them .. OMG, what should I do now ... well, what if instead of unstructured small group, I decided to do more planned sessions, long term workshops where we would not only go thru technical details, coding and stuff but the culture of a team: and 9 of them were interested. 
 
-I knew not all 9 would survive the course, but 3 of them had to quit due to illness issues in their families and one just couldnt find the time anymore. I cant say if they were just trying to be polite and skipped saying 'You suck' but I was ready for the course not to be for everyone ... and that is something you have to be aware: it doesnt mean you are a bad teacher, just some people have different priorities and when everything is on volontary bases, you do want to keep the interested ones in. I think trainings, where you have people who are there cause someone told them they have to be there and they are not interested can be bit hard to maintain: as they might get the whole group demotivated, they can become destructive or something: I had none of those issues. Everyone wanted to be there.
+I knew not all 9 would survive the course, but 3 of them had to quit due to illness issues in their families and one just couldnt find the time anymore. I cant say if they were just trying to be polite and skipped saying 'You suck' but I was ready for the course not to be for everyone ... and that is something you have to be aware: it doesnt mean you are a bad teacher, just some people have different priorities and when everything is on volontary bases, you will keep the interested ones in. I think trainings, where you have people who are there cause someone told them they have to be there and they are not interested can be bit hard to maintain: as they might get the whole group demotivated, they can become destructive or something: I had none of those issues. Everyone wanted to be there.
 
 The whole course took 11-12 saturday mornings over 5 months, from 9AM to 2PM with lot of breaks. I love breaks.
 
 
 #### Breaks
 
-I actually forced myself to have a 5-10 minute break every 45-60 minutes. This way, people who dont know each other get to mingle, chat, talk, exchange ideas and create those very important connections between themselves. On the other hand, they all work full time, have families, some have children, Saturdays had to have balance of learning and fun if you want to keep people motivated...
+I actually forced myself to have a 5-10 minute break every 45-60 minutes. This way, people would relax, as they dont know each other they get to mingle, chat, talk, exchange ideas and create those very important connections between themselves. On the other hand, they all work full time, have families, some have children, Saturdays had to have balance of learning and fun if you want to keep people motivated...
 
 
 #### Motivation
