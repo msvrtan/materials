@@ -28,5 +28,7 @@ IN PROGRESS:
 TODO:
  - notice priviledge/entitlement on yourself
  - Tomo story of 'how can I ever pay you back' and not understanding that I learn as well
+ - add personal part of being self-taught
+ - highest/fastest growth when taught by others
 
 
