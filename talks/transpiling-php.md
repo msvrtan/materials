@@ -12,7 +12,7 @@ There are already some initiatives building upon this idea but they are not bein
 
 ### Additional information:
 
-This is a brand new talk.
+This is a brand new talk, I'm doing it in Zagreb on ZgPHP meetup in September 2019 and on Bulgaria PHP conference in October 2019.
 
 
 
