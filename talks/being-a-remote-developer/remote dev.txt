@@ -1,0 +1,206 @@
+#####     BEING A REMOTE DEVELOPER
+Hi everyone,
+#####     _
+Part of my talk will be things I wish I knew before
+#####     _
+but I will also talk about some good, bad and the ugly parts of working remotely.
+#####     WHY PPL BECOME REMOTES?
+Are there any remotes here in the room? Can you raise your hands?
+OK, there are few.
+There are many reasons why people go for remoting
+#####     BETTER JOB OPPORTUNITIES
+They were looking for better job opportunities, jobs that suite them better, companies that they are more inline with,that are more interesting for them.
+It is much easier to find that “dream job” when you have whole world to look for instead of just your city or country.
+#####     COMMUTING
+While if you live in Zagreb commuting is not such a big issue, I know people that spend 3 hours each day going from home to work and back. 3 hours each day! And they have families … and friends ..
+#####     FLEXIBLE WORK HOURS
+Some want flexible work hours, they have children they want to take care of or spend more time with.Some prefer to work in the afternoon or night, 
+#####     NOMAD
+while some enjoy travelling the world.
+Who here would like to work from a beach on Thailand? Can you raise your hands? Right? EVERYONE !!
+#####     CHANGE
+Some just wanted a change.
+#####     FREEDOM
+or just freedom from daily obligations.
+###################################################################################################################################################################################################
+#####     WHO IS MIRO SVRTAN?
+So before I tell you my story
+#####     MIRO SVRTAN
+My name is Miro Svrtan, you can find me on twitter as msvrtan. I live in Zagreb. I’m one of Zagreb PHP user group organizers but most of the time I’m a remote senior developer working for Ticketswap.
+#####     AMSTERDAM
+a company based in Amsterdam
+#####     PAPA SMURF
+I’m very active in local community and we have a great community here. Just look at this conference, user groups organizing this conference for fifth year. I dont know of any other city having a community run conference of this scale. I love Zagreb and while I love travelling and was looking into relocation for quite some time, I have family and friends here and loosing those connections is really hard for someone of my age.
+And remoting gave me opportunity to work in great company on a great product in a team of 8 senior, 1 junior and 1 intern developer. That is opportunity I dont know of locally. Working in such a great team means I learn new stuff each week from my colleagues instead of just crunching code.
+###################################################################################################################################################################################################
+#####     MY STORY
+So my story began
+#####     2014
+back in 2014 when I 
+#####     STARTUP
+joined a startup here in Zagreb. 6 weeks later,
+#####     WEDNESDAY
+one wednesday morning 
+#####     ACCELERATOR
+I found out we were accepted to an startup accelerator in 
+#####     Berlin
+Berlin and that there is a 
+#####     airplane
+airplane ticket for next monday with my name on it.
+BERLIN HERE I COME!
+#####     MONTH LATER
+I really loved Berlin but I couldnt stay there longer then a month,
+#####     ZAGREB
+so when I came back to Zagreb
+#####     SUMMER
+it was mid summer
+#####     HOME
+only thing I could do is work from home.
+#####     ACCELERATOR
+when accelerator ended, 2 months later …
+#####     BERLIN
+company decided to stay in Berlin
+#####     KEEP CALM
+and my only option was to keep calm and work from home.
+#####     THIS IS HOW I BECAME A REMOTE DEVELOPER
+And this is the story how I became a remote developer.
+###################################################################################################################################################################################################
+#####     HEART
+I really loved the job I had, product we were building.
+#####     WORK FROM LAPTOP
+happy I was working from home. Not spending time commuting, being able to smoke while I work, do my groceries when shops are empty. 
+#####     FREEDOM
+I felt freedom.
+#####     8 HRS/DAY
+spending 8 hours a day 
+#####     HOME ALONE
+home alone did come with some consequences
+#####     ISOLATED
+I started feeling isolated
+#####     FRUSTRATED
+frustrated. Demotivated.
+#####     REMOTE <> @HOME
+One of the biggest mistakes people do,I did it too, we identify working remote as working from home. You can if you want, if it feels good to you. Once I figured it out
+#####     3 FRIENDS
+I found 3 friends who were having same issues with working from home and we decided to rent 
+#####     OFFICE
+our own office. It is a small office in a bussiness building so it does feel professional. And as you can see we sometimes entertain guests :) 
+#####     BAR
+Sometimes, just to spice things up, working from some random bar can be nice too.
+#####     COWORKING SPACE
+If you think bars are too loud and you dont have any friends who are remote,you can also work from a coworking space. You might make a lot of new friends too. 
+#####     WORK LIFE BALANCE
+just try to find your work-life balance. For me, having an office means I can separate my work from my life by just knowing that in the office I’m supposed to work and when I’m travelling back home, I dont want to think about work at all. Subconsiously, amazing thing but I started loosing it again. I do still work from home but when it was really critical for my sanity it helped me a lot. And I’we heard from lot of remotes that this helps them a lot. It’s hard to separate work & life if you work & live in the same place. Not impossible, but hard.
+###################################################################################################################################################################################################
+#####     REMOTE <> FREELANCING
+Market has changed a lot in last 3 years. Most of the job offers I had and most of my friends working remotely were actually freelancers. And this is something I didnt want to do. Hoping from job to job, working on multiple projects at the same time, finding my own clients all the time. 
+I wanted to be a part of 
+#####     TEAM
+team. Work with other people together. But real team, not a group of solo developers.
+Some of you might be thinking
+###################################################################################################################################################################################################
+#####     NOT PART OF A TEAM
+Miro,how can you be a part of a team when you are working so far away?
+There are ways to build better connections
+#####     ONBOARDING
+Great tool is onboarding, idea is that when you join a company, spend few weeks there 
+#####     TS #1
+and meet all of your new colleagues. This spring I went for 2 weeks to Amsterdam,
+#####     TS #2
+as I was the first remote developer in Ticketswap and I loved it. You get to create that personal connection, get feeling of the product and how stuff works. Things that are not so easy to build without that physical presence
+But you
+#####     KEEP COMMUNICATING
+have to keep communicating. I had issues with one of my jobs where people in the office would meet and decide on stuff without consulting with remotes. It was awful.
+#####     NEW PEOPLE IN
+I would find out that there is a new person in the team
+#####     PEOPLE LEFT
+or someone decided to leave a month ago and it is their last day today
+#####     DEADLINE MOVED UP
+sometimes they would move up my deadline without question if its doable cause they had a meeting in the office
+#####     ROADMAP CHANGED
+or change the scope of the project without telling me at all. And then you come to a launch meeting and find out there are more then few things missing.
+#####     SLACK
+have company wide channels, have dev team channels. Dont forget to write everything. In my previous team,during onboarding, team manager flew in too (he was remote). We had few devs in main office, everything was communicated thru hipchat (similar tool to slack). I tought they were crazy, they are seating literally 1m away and discussing where to go on lunch in a channel. It took me quite some time to figure out value of that and start to appreciate it.
+Everything will be written down which means that everyone will be able to know about it.
+#####     DAILY STANDUPS
+Do a video call for daily standups where ppl will say what they did yesterday and what is todays plan, ask for help and offer help.
+#####     WEEKLY MEETINGS
+we have also weekly meeting where we do last weeks retrospective: covering what was positive what was negative and share ideas before we go onto next weeks planning.
+#####     PAIR PROGRAMMING
+I also found screen pair programming to be a really good bonding tool. It’s not as effective as if you were sitting at the same computer but sharing your screen and working together where one person codes while other one navigates is really empowering.
+#####     TEAM RETREATS
+Do team retreats. Often heavily remote companies do 1-2 company retreats pre year. I know of one team that went to Mallorca, rented a villa there for 2 weeks, idea was to work on finishing up mobile web for the company. Everyone told me it was amazing experience for them and wanted to do more of it.
+#####     7 TIPS
+OK, now that we covered the big 3, lets do 7 tips.
+###################################################################################################################################################################################################
+#####     1. CULTURAL DIFFERENCES
+There can be a lot of cultural differences when 
+#####     TEAM MEMBERS FROM AROUND THE WORLD
+when you have team members from around the world.
+#####     COLD <> INDIFFERENT
+People from the northern parts of Europe will be for sure more cold to what we are used to, but that doesnt mean they are indifferent. When I was working in Finland, I had the best connection with 2 guys from Ireland. It took them 5 minutes to embrace me, call me out on dinner/drinks while Fins were more sidelined. It was a bit strange to be honest but it doesnt mean they didnt like me: it just took us more time to get closer together.
+#####     PASSION <> AGGRESION
+Some people might mistake our passion for aggression. A friend told me a story, they brought their team member from Germany to work with them to Zagreb. After few days, he said ‘hey this is normal way of you communicating’. He was more used to cold/calm way of discussing things in his environment and was bit thrown off by high pitched voices they sometimes use on team calls.
+#####     F WORD
+oh, the F BOMB. For most of us from this parts (me included) saying an F word is almost like ‘good morning’. We use it to often and are used to just ignore it. Other are not and can take it very harsh. I was really not sure if I should put this here but on speakers dinner, one of croatian speakers threw an ‘fword’ towards me, personally I didnt take it as anything but I started a discussion on it since there were few non local speakers there. They confirmed it, they would feel offended by someone saying that to their face. You might feel it’s an extreme example but try to count how many times you say it in next 7 days. It’s not that he wanted to offend me, it’s just an expression that we use too loosly.
+###################################################################################################################################################################################################
+#####     2. TIME VS RESULTS
+#####     OFFICE
+when you are in the office, management will often quantify your work by you being their from 9-5. If you work overtime, they will even adore you sometimes. Like here in the picture, everyone is in the office but with a turned off monitor :)
+#####     ITS 8, ONLY 3 MORE
+but in the office, you can slack a lot. Bosses will care more about you being in the office then what you are actually doing.
+#####     WORK FROM HOME	
+and some employers will think that you are “working from home” and will be taking much deeper look into what you did instead of how much time you were in front of your screen. Lets be real, if you child is doing homework in their room, you will check if they did all of it but probably wouldnt if they were seating near you for 2 hours. Right?
+#####     MOTIVATED
+so watch out, you should be motivated in what your job is.
+#####     DISCIPLINED
+and/or disciplined.
+#####     3. TRACK YOUR TIME
+When you are working remote, it’s easy to loose track of how much work was done. I’m talking about tracking it for yourself, just to know what you did and how much time/effort went into it when somebody asks you later. If you have a bad day or two, probably nobody will give you problems on it. But there are tasks like bugfixing or peer reviewing that might not be easily tracked/monitored and you might get into situation: “OK whats happening there, we didnt see too much from you”. And it’s gonna be easier for you to know what and how much you did on weekly basis. it’s again about performance, not 8 hours done in a day.
+#####     4. BE ASYNC
+You have to prepare stuff in advance, it sometimes much harder to get someone in a blink of a second to help you out. When you are working in an office with lot of people, you can feel how busy someone is or how many interuptions they already had. If you see someone jumping hoops all day, you will wait with your problems and/or ask someone else. As a remote you are not aware of if that person was switching from task to task to help others all day, if you are 5th person with a problem and it’s not yet even 10 am. Be ready to ask and get answer at some later time. Be prepared to work without knowing about that issue.
+#####     5. COMMUNICATE ON/OFF
+Say good morning in the team channel when you come in, when you are going home or when you will be away from keyboard (going to a doctor, bank, something). It’s not nice to ‘get caugth’ offline few times in a row if people expected you to work from X to Y.
+#####     6. NOT FOR EVERYONE
+Remote is not a good fit for everyone 
+#####     OR EVERY COMPANY
+and not a good fit for every company. It’s harder to be small and fast startup if you dont have personal contact,if you dont burn the midnight oil together. Or in a big company to teach old dog new tricks. 
+#####     NOT FOR INEXPERIENCED
+I wouldnt suggest inexperienced to go remoting. When I say inexperienced I mean ppl switching job types or being new into the field. If I wanted to change jobs and use some programming language I dont have experience with, I might be in trouble. It’s hard to quantify what is not easily visible.
+#####     7. TRY IT
+but I would suggest you to try it out. Next week, talk to your boss/manager and see if you could work 1 day from home. Or maybe 1 day a month. Instead of taking a vacation day when you are expecting a repairman or some important delivery, try working from home and save those vacation days for somewhere nice.
+#####     RECAP
+Being remote doesnt mean that you have to work from home, or be a freelancer. You can be a part of the team. Be carefull on cultural differences and if you are interested in trying out something new: go for it!
+#####     
+
+
+
+
+
+
+
+
+#####     
+
+
+#####     
+
+
+
+
+
+
+#####     
+
+
+#####     
+
+
+
+
+
+
+
+
+
+
