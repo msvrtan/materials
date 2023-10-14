@@ -149,6 +149,8 @@ WHY? HOW? WHAT?
 
 ## if you are the smartest person in the room, you are in the wrong room
 
+## PHP is dead
+
 ## learn other languages 
 - I didnt ... I focused too much on one
 - beware of 'jack of all trades, master of none'
@@ -170,10 +172,15 @@ WHY? HOW? WHAT?
 ## have mentors
 - both mentor and mentee will grow soooo much
 
+## overtime
+
+- work on yourself not on daily job
+
 ## work life balance
 - I worked OT very rearely
 - I always had something going on (Petra example)
 - 
+
 
 
 ## Diversity is important team balance
@@ -192,9 +199,9 @@ Team of single minded people is just a person with many hands
 - Being agile doesnt mean no planning, that is where methodology comes in
 - i got fired: lack of team work, crappy code, shitty project, got depressed
 - Talk on meetups as a way of meeting other ppl: i’m not a social person, until i put some kind of a hat (pick a role)
+- learn to delegate tasks: you can delegate crapy tasks or be loved by delegating good ones
 
 
-Hoce linphp prezivjet?
 
 Kako je pokrenut qa u firmi?
 
