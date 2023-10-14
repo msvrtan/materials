@@ -210,6 +210,14 @@ EXTRA JOS SE SJETIO:
 - average performance will give you average salary
 - pronouns and politics are extremly important: would you like to be called a monkey?
 - always define timelines and deadlines for yourself and others
+- networking - find suitable employees, partners, vendors, companies to work in or for
+- ping pong is important ^^
+- google having free lunch
+- connect to people by sharing - it makes initial topics open
+- be humble not braggy (laravel founder)
+- avoid suggesting solutions or practices from your last job
+- 
+
 
 
 NININA PITANJA:
