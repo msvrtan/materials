@@ -201,7 +201,18 @@ Team of single minded people is just a person with many hands
 - Talk on meetups as a way of meeting other ppl: i’m not a social person, until i put some kind of a hat (pick a role)
 - learn to delegate tasks: you can delegate crapy tasks or be loved by delegating good ones
 
+EXTRA JOS SE SJETIO:
+- always underpromise and overdeliver
+- get used to write notes (I'm trying to first write chores down and only then do them)
+- do you feel important? do you have equity in company? be a mercenary
+- dont be a resource
+- get out of your comfort zone
+- average performance will give you average salary
+- pronouns and politics are extremly important: would you like to be called a monkey?
+- always define timelines and deadlines for yourself and others
 
+
+NININA PITANJA:
 
 Kako je pokrenut qa u firmi?
 
