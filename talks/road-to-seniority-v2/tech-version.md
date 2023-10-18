@@ -37,6 +37,8 @@ That is why I decided to help you all a bit by doing a 'Road to seniority' talk.
 
 I'm very passionate about my work. I love building good products as much as using them. I want my work to be amazing, which it's not always the result but I strive for excellence not perfection. This is the main reason I love working in product companies and not agencies: I need the focus and time to learn and understand the product.
 
+@TODO: degordian petak 
+
 I've been running my own company for last 10 years. Mostly for the freedom it gives me.
 
 ## Hardware
@@ -51,6 +53,7 @@ That was last piece of equipment I didnt pick myself. Some of the things I picke
 
 I dont have the energy, patience, time or nerves to handle shitty equipment. In order to be good, I need to run IDE with 20 plugins over large codebases, with bunch of dockers running not wasting time on running circles around obstacles that money can easily solve.
 
+@throw money
 
 
 ## learn keyboard shortcuts
@@ -103,6 +106,7 @@ If you see someone struggling, help them out. They dont have to be in your exper
 
 ## Have a can do attitude
 
+brazilian accounting?
 
 I have been learning how to work with twilio past 3 months. I learned javascript and typescript, worked in react with redux. I'm not a full stack developer. There was a need for it and I picked it up. 
 
@@ -135,9 +139,24 @@ I fell few times in the mode to 'fix companies'. I quit one of my jobs after try
 
 Never ever try to fix company if your name is not on the owners list. You dont rent an appartment and then fix all the shit that owners dont care about: you go and find another one.
 
+## Be adaptable not abusable
+
+Design story.
+
+I spoke to few friends that have a client that comes EVERY day with what needs to be done at 3 or 4PM. And it all has to be done for tomorrow. I will help but if we have defined nine to five on the third day at 5PM you would get a 'cya tomorrow'.
+
+When does tasks lend on my desk, I would clearly communicate, that it will be done tomorrow.
+
+Look, I'm adaptable, not abusable.
+
+
 
 ## be hirable
 
+
+no fear of interview
+
+nervous yes
 
 I interviewed a person that has been working in current company from day 1: started on the bottom and became CTO 10 or 15 years later. Extremly passionate person, very knowledgable in lot of things for that business but it's a bit of a specific one. We could barely offer them a junior position. I'm scared what will happen with that company when they leave but if they have not gotten part of the company by now, it's owners fault. 
 
@@ -242,11 +261,11 @@ I have gone to symfony meetup in Helsinki and said hi to no one. I go to Tinel m
 
 Be active in community. I understand speaking might not be for everyone but you can become an open source contributor or help organize meetups. Find interests outside of your daily job. Learn another language. Do them cause you enjoy them, cause you want to do them and years later it might pay back 10 fold.
 
-You have to push yourself.
+You have to push yourself. Out of the comfort zone
 
 ## Agile 
 
-Agile is about people and companies being adaptable not about change. This is the misconception I had for years. No business will decide one day to transition from being a bakery to being a car manufacturer. 
+Agile is about people and companies being adaptable not about big changes. This is the misconception I had for years. No business will decide one day to transition from being a bakery to being a car manufacturer. 
 
 
 ## Lack of planning 
@@ -254,36 +273,37 @@ Agile is about people and companies being adaptable not about change. This is th
 As well, agile doesnt mean there is no planning. That is where you implement methodologies like sprint or kanban...
 
 
-## Be adaptable not abusable
-
-Design story.
-
-I spoke to few friends that have a client that comes EVERY day with what needs to be done at 3 or 4PM. And it all has to be done for tomorrow. I will help but if we have defined nine to five on the third day at 5PM you would get a 'cya tomorrow'.
-
-When does tasks lend on my desk, I would clearly communicate, that it will be done tomorrow.
-
-Look, I'm adaptable, not abusable.
-
-
 
 ## Log time
 
 
-I started logging time 10 years ago for myself, I dont share it with anyone, it started as a need for tracking time as I tend to get lost. I still suck at predictions and estimates but at least I can take a look and see how much time I spent preparing this talk. Of course, it will not cover all the time as I would also be walking my dog and thinking about it and so on.
+I started logging time 14 years ago for myself, I dont share it with anyone, it started as a need for tracking time as I tend to get lost. I still suck at predictions and estimates but at least I can take a look and see how much time I spent preparing this talk. Of course, it will not cover all the time as I would also be walking my dog and thinking about it and so on.
 
 ## you cant improve things you dont measure
 
+## last but not least: always underpromise and overdeliver
+
+I go and understand the problem.
+I come and ask hard questions
+I dont start until I understand what I'm doing
+
+that is how I score points with clients.
+
+
+
+SKIP?
 ## Write notes & todos
 
 Instead of remembering things, write them down. Yes, I hated the idea of writing things down too but at some point in time, life just became too much to handle: I would either drive to the shop and think 'dont forget to buy tomatoes,dont forget to buy tomatoes' or I would come out of shop with everything but that. Mind is precious resource, use it for creative things not for remembering 
 
+
+SKIP?
 ## Throw money at problems
 
 Delegate as much as you can. If you are a part of the team, delegate cool and exciting tasks to others and keep shitty ones for your self. Give what are boring tasks for you to colleagues that find it exciting: you as mid always have some tasks that would be interesting to juniors or someone who has not worked on that part of project. Be creative and people will come to you for more. Rasmus
 
 I had a situation when one of the projects kept growing like crazy: we had to buy more and more hardware. And each server was in a range of my jearly salary. I kept trying to find ways to make things more performant when all I had to do is say 'we need 1 more server, get it'. I was saving my clients money and their CEO asked me later: who gave you that permission? You were making decisions on my behalf
 
-## last but not least: always underpromise and overdeliver
 
 
 
