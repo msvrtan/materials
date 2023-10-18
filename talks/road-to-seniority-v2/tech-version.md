@@ -41,7 +41,7 @@ I've been running my own company for last 10 years. Mostly for the freedom it gi
 
 ## Hardware
 
-When I was employed, I got a desktop and needed a laptop. I suggested one that was around 2 avg Croatian salaries, we should buy a very good one if I'm moving away from desktop. They said it is too much and that I can keep the desktop and find a cheaper laptop.
+When I was employed, I got a desktop and needed a laptop. I suggested one that was around 2,5 avg Croatian salaries, we should buy a very good one if I'm moving away from desktop. They said it is too much and that I can keep the desktop and find a cheaper laptop.
 
 I moved to another company and wanted Mac: I was told no way, it's not supported by our IT. And I was suggested to get one of the laptops from a compensation with some company. I had to fight to be able to pick a laptop from anywhere. 
 
@@ -79,12 +79,12 @@ Do you have a lot of bugs that are creating big problems? Take them on. Take the
 Suggest improvements. Be the change you want to see. 
 
 
-be more valuable player for the team and product.chunks of time (<10%) dont ask for permission, it's better to ask for forgiveness. 
 
 Your team is not writing tests? Learn how to do it and teach others later. 
 
 You are not using phpstan or psalm? When you go to work tomorrow: add it. Learn it. 
 
+be more valuable player for the team and product.chunks of time (<10%) dont ask for permission, it's better to ask for forgiveness. 
 
 
 When you are doing something for the first time, document it. It's enough to just write down what you did, copy/paste in links where you found it. It will be a good reference to you and possibly others when they have to look into it.
@@ -200,6 +200,12 @@ I have been doing technical due dilligence for the client last weeks. I have nev
 - write notes for everything
 
 
+## PHP is dead
+
+## learn other languages 
+- I didnt ... I focused too much on one
+- beware of 'jack of all trades, master of none'
+
 ## I learn in my spare time
 
 ## overtime
@@ -221,24 +227,26 @@ I have a 9 year old younger brother that is both my mentor and mentee: we push e
 
 I'm happy to see few of my mentees in the crowd as well
 
+## surround yourself with people that will push you forward
+
 ## long term 
 
 I organized ZgPHP for about 6 years (please dont kill me if my math is wrong) and I organized first 3 WebCamps. I didnt do it for the fame. I didnt do it for marketing. I did it cause I wanted to have that. I did it for myself.
 
 I never had any intentions but enjoying it. But those things changed my life. This is my 3rd job in 7 years that is connected to people in this room. I shared office with people I meet here. Like literally ment them in this room. I was so happy when I found out we are doing Mama cause this room means so much to me
 
-Be active in community. I understand speaking might not be for everyone but you can become an open source contributor. Find interests outside of your daily job. Do them cause you enjoy them, cause you want to do them and years later it might pay back 10 fold.
+## too shy?
+
+I have gone to symfony meetup in Helsinki and said hi to no one. I go to Tinel meetup in Split and say hi to those few people I know from before. I'm not extrovert and I'm not outgoing but when I get on this stage, I become someone else. It gives me power and strength to talk to others cause now people now a bit about me and we have topics to talk about.
 
 
-## PHP is dead
+Be active in community. I understand speaking might not be for everyone but you can become an open source contributor or help organize meetups. Find interests outside of your daily job. Learn another language. Do them cause you enjoy them, cause you want to do them and years later it might pay back 10 fold.
 
-## learn other languages 
-- I didnt ... I focused too much on one
-- beware of 'jack of all trades, master of none'
+You have to push yourself.
 
 ## Agile 
 
-Agile is about people and companies being adaptable not about change. This is the misconception I had for yeard. No business will decide one day to transition from being a bakery to being a car manufacturer. 
+Agile is about people and companies being adaptable not about change. This is the misconception I had for years. No business will decide one day to transition from being a bakery to being a car manufacturer. 
 
 
 ## Lack of planning 
@@ -257,15 +265,17 @@ When does tasks lend on my desk, I would clearly communicate, that it will be do
 Look, I'm adaptable, not abusable.
 
 
+
 ## Log time
 
 
 I started logging time 10 years ago for myself, I dont share it with anyone, it started as a need for tracking time as I tend to get lost. I still suck at predictions and estimates but at least I can take a look and see how much time I spent preparing this talk. Of course, it will not cover all the time as I would also be walking my dog and thinking about it and so on.
 
+## you cant improve things you dont measure
 
 ## Write notes & todos
 
-Instead of remembering things, write them down. Yes, I hated the idea of writing things down too but at some point in time, life just became too much to handle: I would either drive to the shop and think 'dont forget to buy tomatoes,dont forget to buy tomatoes' or I would come out of shop with everything but that.Mind is precious resource, use it for creative things not for remembering 
+Instead of remembering things, write them down. Yes, I hated the idea of writing things down too but at some point in time, life just became too much to handle: I would either drive to the shop and think 'dont forget to buy tomatoes,dont forget to buy tomatoes' or I would come out of shop with everything but that. Mind is precious resource, use it for creative things not for remembering 
 
 ## Throw money at problems
 
@@ -273,14 +283,11 @@ Delegate as much as you can. If you are a part of the team, delegate cool and ex
 
 I had a situation when one of the projects kept growing like crazy: we had to buy more and more hardware. And each server was in a range of my jearly salary. I kept trying to find ways to make things more performant when all I had to do is say 'we need 1 more server, get it'. I was saving my clients money and their CEO asked me later: who gave you that permission? You were making decisions on my behalf
 
+## last but not least: always underpromise and overdeliver
 
 
 
-
-## Karma!
-
-
-Thank you
+##  Thank you
 
 
 
@@ -330,7 +337,6 @@ Team of single minded people is just a person with many hands
 - Talk on meetups as a way of meeting other ppl: i’m not a social person, until i put some kind of a hat (pick a role)
 
 EXTRA JOS SE SJETIO:
-- always underpromise and overdeliver
 - do you feel important? do you have equity in company? be a mercenary
 - dont be a resource
 - get out of your comfort zone
