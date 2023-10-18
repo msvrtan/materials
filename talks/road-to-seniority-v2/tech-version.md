@@ -12,7 +12,7 @@ Welcome! Thank you for the introduction, it's so nice to see you all. I'm a bit 
 
 While I spent most of my life breaking walls with using my head as a battering ram, most of my growth came from learning from others. I'm almost certain it's 80/20 where I spent 20% of my time learning from others and it made 80% of my knowledge.
 
-I built this talk around what I would loved to hear when I started my career and I want to give you some actionable tips and things to work on. I'll mention topics like learning, culture, attitude, mythical 10x developer and so on.
+I built this talk around what I would loved I heard when I started my career and I want to give you some actionable tips and things to work on. I'll mention topics like learning, culture, attitude, mythical 10x developer and so on.
 
 
 ## 
@@ -22,7 +22,7 @@ Before going further, I'm coming from a different background then you, I did dif
 
 ## Lumberjack story
 
-Some of you might be in a place where they think they dont have the time or energy to be better. Let me tell you a story of lumberjack that had no time to sharpen their axe. Can you imagine lumberjack that is so overwhelmed so pressured by others that they cant stop and sharped the axe. They have to use dull axe. And they are not aware of what they are doing. They are yelling "There is a whole forest in front of me, those people are waiting for products of my labour". Do you find it funny?
+Some of you might be in a place where they think they dont have the time or energy to be better. Let me tell you a story of lumberjack that had no time to sharpen their axe. Can you imagine lumberjack that is so overwhelmed so pressured by others that they cant stop and sharp the axe. They have to use dull axe. And they are not aware of what they are doing. They are yelling "There is a whole forest in front of me, those people are waiting for products of my labour". Do you find it funny?
 
 ## 
 
@@ -43,7 +43,7 @@ I've been running my own company for last 10 years. Mostly for the freedom it gi
 
 When I was employed, I got a desktop and needed a laptop. I suggested one that was around 2 avg Croatian salaries, we should buy a very good one if I'm moving away from desktop. They said it is too much and that I can keep the desktop and find a cheaper laptop.
 
-I moved to another company and wanted Mac: I was told no way, it's not supported by our it. And I was suggested to get one of the laptops from a compensation with some company. I had to fight to be able to pick a laptop from anywhere. 
+I moved to another company and wanted Mac: I was told no way, it's not supported by our IT. And I was suggested to get one of the laptops from a compensation with some company. I had to fight to be able to pick a laptop from anywhere. 
 
 That was last piece of equipment I didnt pick myself. Some of the things I picked prooved to be a catastrophic piece of shit, not gonna name the company but it's abbriviated HP.
 
@@ -67,20 +67,25 @@ DX, developer experience is a quality of life matter and means a lot
 The mythical 10x developer. Any of you here? So I'm the only one? Nah, you are just modest. And OK, I'm not really 10x...
 
 
-I see lot of misunderstanding of the topic, I agree it was abused a lot but the idea is not that you produce 10 times more then the other person but that you bring 10 times more value. What is value? Build an important feature or squash a terrible bug.
+I see lot of misunderstanding of the topic, I agree it was abused a lot but the idea is not that you produce 10 times more then the other person but that you bring 10 times more value.
+
+## MVP - more valuable player
+
+
+ What is value? Build an important feature or squash a terrible bug.
+Do you have a lot of bugs that are creating big problems? Take them on. Take the one that has most impact, not the hardest or easiest to solve. Dont go for quality, quantity, challenge but for IMPACT
 
 
 Suggest improvements. Be the change you want to see. 
 
-## MVP - more valuable player
 
-be more valuable player for the team and product.For smaller chunks of time (<10%) dont ask for permission, it's better to ask for forgiveness. 
+be more valuable player for the team and product.chunks of time (<10%) dont ask for permission, it's better to ask for forgiveness. 
 
 Your team is not writing tests? Learn how to do it and teach others later. 
 
 You are not using phpstan or psalm? When you go to work tomorrow: add it. Learn it. 
 
-Do you have a lot of bugs that are creating big problems? Take them on. Take the one that has most impact, not the hardest or easiest to solve. Dont go for quality, quantity, challenge but for IMPACT
+
 
 When you are doing something for the first time, document it. It's enough to just write down what you did, copy/paste in links where you found it. It will be a good reference to you and possibly others when they have to look into it.
 
@@ -110,14 +115,12 @@ I was in charge of technical part of interview for one of the clients and I join
 
 That is a good example of a 'can do attitude'. Think of things coming to you as challenges and be a small kid: enjoy them.
 
-
-
 Dont have a 'can do attitude' so you would kiss ass. Do it for the product, for the team, even for yourself. Expect nothing in return. 
 
 ## Bad example of can do attitude
 
 
-But be aware there are bad example of 'can do attitude' where you take over somebody elses job cause they are incompetent or company is not well organized. If you start fixing peoples printers better then the person who is in charge of it, everybody will call you. 
+But be aware there are bad example of 'can do attitude' where you take over somebody elses duties cause they are incompetent or company is not well organized. If you start fixing peoples printers better then the person who is in charge of it, everybody will call you. 
 
 
 @TODO Ghost example of wordpress
@@ -140,6 +143,7 @@ I interviewed a person that has been working in current company from day 1: star
 
 But they are hard to hire: who wants to go from a CTO paid position in a small company to a junior salary?? 
 
+do not repeat one year fifteen times
 
 
 ## Jack of all trades is a master of none
@@ -170,7 +174,7 @@ Strategy:
 
 
 Tactics:
-- interested in: map out your passions, reduce unrealistic ones (I guess becoming a footballer in 30s is not realistic but rocket scientist might not be)
+- interested in: map out your passions, reduce unrealistic ones (I guess becoming a footballer in 30s is not realistic but rocket scientist might  be)
 - if you are going in yourself, youtube, udemy, coursera, brilliant might be amazing resources
 - if you have someone in the industry to get you running is amazing 
 - if you want to learn the most, find companies in the industry and talk to them. If they are not looking for junior possitions, they might be open to part time interning (or if you can afford go and be an intern). Show them you are enthusiastic and passionate about the topic
@@ -196,9 +200,11 @@ I have been doing technical due dilligence for the client last weeks. I have nev
 - write notes for everything
 
 
+## I learn in my spare time
+
 ## overtime
 
-I understand it's hard to find time to learn but I have very rarely worked overtime. I always used my free time to learn not work for the company/client/boss. I hear of people working 10-12 hours in Zagreb, coming home exhausted... that is not a life.
+I understand it's hard to find time to learn but I have very rarely worked overtime. I always used my spare time to learn not work for the company/client/boss. I hear of people working 10-12 hours in Zagreb, coming home exhausted... that is not a life.
 
 I spoke to few people about this topic and they all said that they would not turn off their brain at 5PM but they would rarely work on company things then: it was time for pet projects, passions, learning.
 
@@ -254,7 +260,7 @@ Look, I'm adaptable, not abusable.
 ## Log time
 
 
-I started logging time 10 years ago, it started as a need for tracking time as I tend to get lost. I still suck at predictions and estimates but at least I can take a look and see how much time I spent preparing this talk. Of course, it will not cover all the time as I would also be walking my dog and thinking about it and so on.
+I started logging time 10 years ago for myself, I dont share it with anyone, it started as a need for tracking time as I tend to get lost. I still suck at predictions and estimates but at least I can take a look and see how much time I spent preparing this talk. Of course, it will not cover all the time as I would also be walking my dog and thinking about it and so on.
 
 
 ## Write notes & todos
