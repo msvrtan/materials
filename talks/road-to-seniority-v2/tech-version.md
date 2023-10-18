@@ -175,6 +175,7 @@ Tactics:
 - if you have someone in the industry to get you running is amazing 
 - if you want to learn the most, find companies in the industry and talk to them. If they are not looking for junior possitions, they might be open to part time interning (or if you can afford go and be an intern). Show them you are enthusiastic and passionate about the topic
 
+## if you are the smartest person in the room, you are in the wrong room
 
 ## life long learning
 
@@ -191,6 +192,8 @@ I have been doing technical due dilligence for the client last weeks. I have nev
 - improve writing skills to be better in writting documentation
 - how to collaborate with multiple teams
 - be positive
+- write task then do it
+- write notes for everything
 
 
 ## overtime
@@ -220,6 +223,54 @@ I never had any intentions but enjoying it. But those things changed my life. Th
 
 Be active in community. I understand speaking might not be for everyone but you can become an open source contributor. Find interests outside of your daily job. Do them cause you enjoy them, cause you want to do them and years later it might pay back 10 fold.
 
+
+## PHP is dead
+
+## learn other languages 
+- I didnt ... I focused too much on one
+- beware of 'jack of all trades, master of none'
+
+## Agile 
+
+Agile is about people and companies being adaptable not about change. This is the misconception I had for yeard. No business will decide one day to transition from being a bakery to being a car manufacturer. 
+
+
+## Lack of planning 
+
+As well, agile doesnt mean there is no planning. That is where you implement methodologies like sprint or kanban...
+
+
+## Be adaptable not abusable
+
+Design story.
+
+I spoke to few friends that have a client that comes EVERY day with what needs to be done at 3 or 4PM. And it all has to be done for tomorrow. I will help but if we have defined nine to five on the third day at 5PM you would get a 'cya tomorrow'.
+
+When does tasks lend on my desk, I would clearly communicate, that it will be done tomorrow.
+
+Look, I'm adaptable, not abusable.
+
+
+## Log time
+
+
+I started logging time 10 years ago, it started as a need for tracking time as I tend to get lost. I still suck at predictions and estimates but at least I can take a look and see how much time I spent preparing this talk. Of course, it will not cover all the time as I would also be walking my dog and thinking about it and so on.
+
+
+## Write notes & todos
+
+Instead of remembering things, write them down. Yes, I hated the idea of writing things down too but at some point in time, life just became too much to handle: I would either drive to the shop and think 'dont forget to buy tomatoes,dont forget to buy tomatoes' or I would come out of shop with everything but that.Mind is precious resource, use it for creative things not for remembering 
+
+## Throw money at problems
+
+Delegate as much as you can. If you are a part of the team, delegate cool and exciting tasks to others and keep shitty ones for your self. Give what are boring tasks for you to colleagues that find it exciting: you as mid always have some tasks that would be interesting to juniors or someone who has not worked on that part of project. Be creative and people will come to you for more. Rasmus
+
+I had a situation when one of the projects kept growing like crazy: we had to buy more and more hardware. And each server was in a range of my jearly salary. I kept trying to find ways to make things more performant when all I had to do is say 'we need 1 more server, get it'. I was saving my clients money and their CEO asked me later: who gave you that permission? You were making decisions on my behalf
+
+
+
+
+
 ## Karma!
 
 
@@ -246,17 +297,7 @@ WHY? HOW? WHAT?
 ## when starting
 - pick larger company, agency vs product is not crucial
 
-
-
 ## golden handcuffs
-
-## if you are the smartest person in the room, you are in the wrong room
-
-## PHP is dead
-
-## learn other languages 
-- I didnt ... I focused too much on one
-- beware of 'jack of all trades, master of none'
 
 
 
@@ -278,18 +319,12 @@ Team of single minded people is just a person with many hands
 ## If you want to go fast, go alone, if you want to go far, go together
 
 
-- Log time!
-- Stedio pare drugima (uzeo na sebe odgovornost umjesto da trazim resurse)
 - Financijska nepismenost
-- Agile is about being adaptable not changes
-- Being agile doesnt mean no planning, that is where methodology comes in
 - i got fired: lack of team work, crappy code, shitty project, got depressed
 - Talk on meetups as a way of meeting other ppl: i’m not a social person, until i put some kind of a hat (pick a role)
-- learn to delegate tasks: you can delegate crapy tasks or be loved by delegating good ones
 
 EXTRA JOS SE SJETIO:
 - always underpromise and overdeliver
-- get used to write notes (I'm trying to first write chores down and only then do them)
 - do you feel important? do you have equity in company? be a mercenary
 - dont be a resource
 - get out of your comfort zone
