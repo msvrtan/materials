@@ -139,6 +139,16 @@ I fell few times in the mode to 'fix companies'. I quit one of my jobs after try
 
 Never ever try to fix company if your name is not on the owners list. You dont rent an appartment and then fix all the shit that owners dont care about: you go and find another one.
 
+
+## Agile 
+
+Agile is about people and companies being adaptable not about big changes. This is the misconception I had for years. No business will decide one day to transition from being a bakery to being a car manufacturer. 
+
+
+## Lack of planning 
+
+As well, agile doesnt mean there is no planning. That is where you implement methodologies like sprint or kanban...
+
 ## Be adaptable not abusable
 
 Design story.
@@ -177,26 +187,6 @@ But you know jack of all trades is a master of none right?
 your money comes from quality, companies from quantity. Be niche in banking vs building cms. Person specialized for developing banking software will make more money then person building content management systems: there is a bigger value and risk, knowledge is niche while rare companies have CMS as core of their business and it's very commoditized this days. Yes, it will be easy to find a job cause there are lots of companies but that also means incomes will not be amazing.
 
 
-## Strategy vs tactics
-
-
-First learn what it is, I struggled for it for a long time.
-
-
-Strategy is the overall plan or approach that you take to achieve a goal. It is the big picture, and it should be based on a deep understanding of your strengths, weaknesses, opportunities, and threats.
-
-Tactics are the specific actions that you take to implement your strategy. They are the details of how you will achieve your goal, and they should be flexible enough to adapt to changing conditions.
-
-Strategy:
-- figure out what you are interested in. I like solving business problems. I love building products people around me use. I love hardware. The idea of pressing a button on my phone and light turns on is AMAZING.
-- how to learn it? yourself, friend mentor, intern in a company
-
-
-Tactics:
-- interested in: map out your passions, reduce unrealistic ones (I guess becoming a footballer in 30s is not realistic but rocket scientist might  be)
-- if you are going in yourself, youtube, udemy, coursera, brilliant might be amazing resources
-- if you have someone in the industry to get you running is amazing 
-- if you want to learn the most, find companies in the industry and talk to them. If they are not looking for junior possitions, they might be open to part time interning (or if you can afford go and be an intern). Show them you are enthusiastic and passionate about the topic
 
 ## if you are the smartest person in the room, you are in the wrong room
 
@@ -263,14 +253,6 @@ Be active in community. I understand speaking might not be for everyone but you 
 
 You have to push yourself. Out of the comfort zone
 
-## Agile 
-
-Agile is about people and companies being adaptable not about big changes. This is the misconception I had for years. No business will decide one day to transition from being a bakery to being a car manufacturer. 
-
-
-## Lack of planning 
-
-As well, agile doesnt mean there is no planning. That is where you implement methodologies like sprint or kanban...
 
 
 
