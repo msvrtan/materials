@@ -6,14 +6,13 @@
 Welcome! Thank you for the introduction, it's so nice to see you all. I'm a bit rusty, I havent been speaking for 4 years , please excuse me if I seem nervous cause I'am .
 
 
-## Helmet guy wall
+## Helmet guy wall 
+## mob
 
 While I spent most of my life breaking walls with using my head as a battering ram, most of my growth came from learning from others. I'm almost certain it's 80/20 where I spent 20% of my time learning from others and it made 80% of my knowledge.
 
-I built this talk around what I would loved I heard when I started my career and I want to give you some actionable tips and things to work on. I'll mention topics like learning, culture, attitude, mythical 10x developer and so on.
 
-
-## 
+## papa smurf
 
 Before going further, I'm coming from a different background then you, I did different life choices than you, different life things happened to me. I'm a privileged 40ish year old white guy that had his first computer in 7th grade, I dont have a family to take care of, undiagnosed ADHD and I'm a workaholic. I will try to make all of my advices actionable and sensible but I understand that not everyone is in that place in life where they can afford to be better.
 
@@ -21,8 +20,6 @@ Before going further, I'm coming from a different background then you, I did dif
 ## Lumberjack story
 
 Some of you might be in a place where they think they dont have the time or energy to be better. Let me tell you a story of lumberjack that had no time to sharpen their axe. Can you imagine lumberjack that is so overwhelmed so pressured by others that they cant stop and sharp the axe. They have to use dull axe. And they are not aware of what they are doing. They are yelling "There is a whole forest in front of me, those people are waiting for products of my labour". Do you find it funny?
-
-## 
 
 This is the most common excuse I hear from developers when I ask them where are the tests. "There is a jira full of tickets in front of me, frontend wants endpoints, project managers want landing pages I cant stop to write tests". This is how you save time short term but loose long term. And every moment later, writing tests makes less sense when you spent hours debuging as you have invested so much time in putting ducktape everywhere.
 
